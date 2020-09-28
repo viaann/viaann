@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>I usually build native Android applications and Website applications, besides that I also like learning new things about software development.</p>
+<p>I usually build Android applications and Website applications, besides that I also like learning new things about software development.</p>
 <!--
 **viaann/viaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
