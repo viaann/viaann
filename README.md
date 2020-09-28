@@ -1,6 +1,5 @@
 ## Hi there 👋
-I usually build Android applications and Website applications, besides that I also like learning new things about software development.
----
+<p>I usually build Android applications and Website applications, besides that I also like learning new things about software development.<p>
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viaann&layout=compact&hide_title=true&hide_border=true)
 <!--
