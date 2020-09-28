@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p>I usually build Android applications and Website applications, besides that I also like learning new things about software development.</p>
 <br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=viaann&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viaann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **viaann/viaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
