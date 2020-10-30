@@ -1,6 +1,4 @@
-<p align='center'>
-  <b> Hi there 👋 </b>
-</p>
+### Hi there 👋
 
 <!--
 **viaann/viaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
