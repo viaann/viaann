@@ -1,8 +1,7 @@
+<p align='center'>
+  <b> Hi there 👋 </b>
+</p>
 
-### Hi there 👋
-
-- 🔭 I’m currently working on Nexsoft
-- 🌱 I’m currently learning Spring boot, Flutter
 <!--
 **viaann/viaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
