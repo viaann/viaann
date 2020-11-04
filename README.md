@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/viaann-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gedenata/)](https://www.linkedin.com/in/viaann/)
-[![Medium Badge](https://img.shields.io/badge/@viaann-292929?style=flat&labelColor=292929&logo=Medium&link=https://medium.com/@gedenata)](https://medium.com/@viaann)
+[![Linkedin Badge](https://img.shields.io/badge/viaann-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viaann/)](https://www.linkedin.com/in/viaann/)
+[![Medium Badge](https://img.shields.io/badge/@viaann-292929?style=flat&labelColor=292929&logo=Medium&link=https://medium.com/@viaann)](https://medium.com/@viaann)
 <!--
 **viaann/viaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
