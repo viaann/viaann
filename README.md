@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/viaann-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viaann/)](https://www.linkedin.com/in/viaann/)
+[![Linkedin Badge](https://img.shields.io/badge/viaann-145374?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viaann/)](https://www.linkedin.com/in/viaann/)
 [![Medium Badge](https://img.shields.io/badge/@viaann-000000?style=flat&labelColor=00000&logo=Medium&link=https://medium.com/@viaann)](https://medium.com/@viaann)
 <!--
 **viaann/viaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
